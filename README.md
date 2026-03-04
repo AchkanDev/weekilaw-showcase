@@ -23,17 +23,24 @@
 
 ---
 
+## 🎬 Preview
+
+<div align="center">
+
+https://github.com/AchkanDev/weekilaw-showcase/raw/main/screenshots/weekilaw_demo.mp4
+
+</div>
+
+---
+
 ## 🖼️ Screenshots
 
 <div align="center">
 
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/com.pqlian.weekilaw-997496203932.jpg" width="180"/>
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/com.pqlian.weekilaw-941290374851.jpg" width="180"/>
-<img src="https://myket.ir/asset-files/screenshots/xlarge/com.pqlian.weekilaw/135bbe1a-3fbe-461c-8163-ba97a6fb4c49.png" width="180"/>
-<img src="https://myket.ir/asset-files/screenshots/xlarge/com.pqlian.weekilaw/976fa2a4-b92f-49a3-9dd5-9effa52abd87.png" width="180"/>
-<img src="https://myket.ir/asset-files/screenshots/xlarge/com.pqlian.weekilaw/f1b02ecb-04f7-4736-830b-67f95f470f2b.png" width="180"/>
-<img src="https://myket.ir/asset-files/screenshots/xlarge/com.pqlian.weekilaw/a0616a1f-62a0-4d3b-8e0b-73c11d7b6b33.png" width="180"/>
-<img src="https://myket.ir/asset-files/screenshots/xlarge/com.pqlian.weekilaw/3c12e500-0893-45c2-8fa3-739ba2f2d4d7.png" width="180"/>
+| | | | |
+|--|--|--|--|
+| <img src="screenshots/screen1.webp" width="180"/> | <img src="screenshots/screen2.webp" width="180"/> | <img src="screenshots/screen3.webp" width="180"/> | <img src="screenshots/screen4.webp" width="180"/> |
+| <img src="screenshots/screen5.webp" width="180"/> | | | |
 
 </div>
 
